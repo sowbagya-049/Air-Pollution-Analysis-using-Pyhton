@@ -1,4 +1,4 @@
-# Air-Pollution-Analysis-using-Pyhton-EDA
+# Air-Pollution-Analysis-using-Python-EDA
 This is an analysis project on Air Pllotion over 2015 to 2020 , mainly focused on indian aor pollution. 
 
 # import pandas as pd
